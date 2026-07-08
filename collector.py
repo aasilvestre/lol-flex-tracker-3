@@ -146,6 +146,8 @@ def main():
         flush=True,
     )
 
+    ts = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S")
+
     prev = load_current()
     is_first_run = not bool(prev)
     if is_first_run:
