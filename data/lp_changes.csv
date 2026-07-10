@@ -5525,3 +5525,4 @@ timestamp_utc,puuid,tier,old_lp,new_lp,lp_delta
 2026-07-10T15:35:35,-A0uoibF2OYq-JxCx0FN6e7GT0QBKlRinusB52_xcZ7yO_3l7sZsDCP84rLDT-tXvxXKBDyB5KNbYg,master,75,103,28
 2026-07-10T15:35:35,RB1IqI6kXkmmHqVbPc7XQ5Y2JxpENLgwFX5iygyzLzZDU7VAkbuOFg3gx9Ppgsxol9MxXxAEOymCJg,master,5,35,30
 2026-07-10T15:35:35,wnI8liuQW4nG8SA8nPbHLgD0ppcptwmHSMYy1poQFi_QIMfEB0Gkuo3mVyWc-nzkl0uMYXKunRzFDQ,master,44,13,-31
+2026-07-10T15:40:57,Z7xPeCLDKileFY3tl0AmMAWDw4qMiXalkTohksxXYrUZkkewsgfB_WgmmgDcEM6o4PltFDfdwP4mNA,challenger,923,953,30
