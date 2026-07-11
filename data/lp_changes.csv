@@ -9622,3 +9622,7 @@ timestamp_utc,puuid,tier,old_lp,new_lp,lp_delta
 2026-07-11T21:31:00,KUrh2E0wesDSSw-MZ8NLLxnN-EAmglaXQ92YgpGaXMf1MwxfFmct-DfIvintlQyJcM94uWhs-bB_MQ,master,76,105,29
 2026-07-11T21:31:00,Ut0jLxB2dZQLLpUtylJEwFMC0klk5XTDsIW6TwmKaGfckpkcYqJU7RFsgFUPdsHVYdXh_oswefbSdQ,master,5,0,-5
 2026-07-11T21:31:00,8jjg-iyIl_EYXZlvn2O-xJ9juQo0YamoqWMKAZQ4Xxd-L0VXR5OFr7DfGLBn4P8rQVHBQTlnPLQ6DQ,master,21,0,-21
+2026-07-11T21:35:37,jtamevkTj3wckn3vkC0NYJsUeqNlWI2OA2geSjdwY1y6Q3DPwfNfe7xOjgPWXDOfsilFZjQpcweyzw,challenger,1564,1594,30
+2026-07-11T21:35:37,BHkClgntatv_F5tnJ_fFaedBVhEf9zUAIbbGm3bOwke5sMeomg8VNLpxiWmnUf119VJ9jU_5_U2YxA,challenger,1564,1534,-30
+2026-07-11T21:35:37,9BZiwljKPA33mp4YS-IR-FA3kMFVrsjMwaFZvatjLIteUKwnXAr35rYzEUCqlDSizeGmipCsYpxTtA,challenger,1557,1528,-29
+2026-07-11T21:35:37,q_aArBr3G6KpEXYCwsZxrQMZQeJQpa1plnTrO6v_BRma2lTDE2oP29fWQFBOWuqwetGTyXt_k6Jd0g,challenger,1384,1416,32
