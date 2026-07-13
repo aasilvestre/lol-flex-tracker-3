@@ -16028,3 +16028,6 @@ timestamp_utc,puuid,tier,old_lp,new_lp,lp_delta
 2026-07-13T22:55:34,gnUgrtKebHgr-6h0Wj0YUNUxFW5kXzngBGhVsEk5AGv_oYNWNyGT_UPnI-RHnfkzqiBEKAkxZ4yelg,master,78,52,-26
 2026-07-13T22:55:34,ii1u3TZmnmseroCjXD6L_qwjZVe9vRBKgJKfxDatwgBc2YuQc77dpCbumm5xwdOU_R1STa_xhsNdqw,master,5,40,35
 2026-07-13T22:55:34,NguqVVgJNdlivQYV2rgC-jlxql1ML69KGG0UsFwj6nN_YjvcxUtHrJ2lshO78SqGVL_PNfy1fZcHpg,master,5,40,35
+2026-07-13T23:01:01,jCT6OFd4zzH_JsSye8c4RlyM4niLS3NKo-0GvasI3XC1d-XcP6yXQ_JKyDUvwyT4Zsbyv2InqUghsQ,challenger,1875,1846,-29
+2026-07-13T23:01:01,PcRL6xXyDBtKh7r_oRPLr5SbDrRtBop8yskIiQo7p42q_77gejnTXl9xj69NQYRnm_8GdT_bvvgdlg,challenger,1057,1026,-31
+2026-07-13T23:01:01,TvagZg0Gh2L1jAR6MspSZyRO23ep3AADmr_jFalDmHZqaGpRm1X_m161FnOjXxUILtJ2guk9cgLwLA,master,144,149,5
