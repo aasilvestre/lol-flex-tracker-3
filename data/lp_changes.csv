@@ -15070,3 +15070,5 @@ timestamp_utc,puuid,tier,old_lp,new_lp,lp_delta
 2026-07-13T09:01:10,Q2L0ZJFG9qd5GLwwXLm5i1FfvEVj6unZlHn0cSpDll1rzG4mZIT-zurUQQnzfzBiM_jVHmxHWo7ODA,challenger,1903,1874,-29
 2026-07-13T09:01:10,8znwb8Gwe9HbnzXbv9Ydg6juQkiKL2zYFbgfHQ44-Y17a-ebog0q4UqpPbrf05__MxefYCIyiQUlDw,challenger,1557,1526,-31
 2026-07-13T09:01:10,HKSd2VfQzPIHET6-IajLdRLm4kosIsX3bFOVAHDjLohWZRGX6SzxmlNy9uzYyPNMaTTWgQu9cy7TTw,gm,656,627,-29
+2026-07-13T09:05:37,Q2L0ZJFG9qd5GLwwXLm5i1FfvEVj6unZlHn0cSpDll1rzG4mZIT-zurUQQnzfzBiM_jVHmxHWo7ODA,challenger,1874,1903,29
+2026-07-13T09:05:37,8znwb8Gwe9HbnzXbv9Ydg6juQkiKL2zYFbgfHQ44-Y17a-ebog0q4UqpPbrf05__MxefYCIyiQUlDw,challenger,1526,1557,31
