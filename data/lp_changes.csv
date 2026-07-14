@@ -18646,3 +18646,8 @@ timestamp_utc,puuid,tier,old_lp,new_lp,lp_delta
 2026-07-14T20:25:40,-m-bbrbcB0qZ8MBDcZU2kyUJr143kOHzL_8nXox-i2pJz9EvVnuTszhV_0a-_NtI2PGz8ZsXXSD8Lg,master,149,181,32
 2026-07-14T20:25:40,I56xpkTHHCcOuthQbQ_N-HuMm9U8bCDFv71vw7ik5ViEdWTV7QEBzc2zmQf32HGtmcZb3LL5PKF5qA,master,6,37,31
 2026-07-14T20:25:40,kB7t9XeaxRfBcotPoK3xO8--Cx3b2pDKXFyEGlhQebGCNs53BiDFghS0v8ttHmB29MMakgsk_v4h-g,master,0,33,33
+2026-07-14T20:30:59,20rzOZh7uwI4L2EjtQKh-1gzrddA_hMXyfqkdmkzrdbt47xU2z_fcW0mbFJV9XCht5mAG8xYnPppkg,challenger,1050,1080,30
+2026-07-14T20:30:59,WOUXuJxzjeli76bvYwtcxVmgSgHc7dIh5r3AimmVu3Sw05SPD9Uzxwx2hwrfufRbi91kODrf3_CLKQ,master,221,253,32
+2026-07-14T20:30:59,96umsDpy9qG6TnOHxkuSv4kd_J_V-0yWdIaZww1RFEOY7tVHweYgspyAxgQIcEoADLYcsyNsEG-lBQ,master,159,130,-29
+2026-07-14T20:30:59,sONi4nlb2Noz4U2fLnwepQPuwF_p8idxgV1v6qOVq241CkEMVgzoRr5FuQssLx_oHpXnMsEbGNfMUg,master,121,91,-30
+2026-07-14T20:30:59,z-_ubHs6W_ADA8HpQtJ3nHq2bmLaptG0q_9SpPjeN2GpwbqwgoXqjUyd5OKLLGe7ebR55vIaHghHYg,master,19,50,31
