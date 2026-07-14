@@ -18957,3 +18957,7 @@ timestamp_utc,puuid,tier,old_lp,new_lp,lp_delta
 2026-07-14T22:40:58,woWtfUdcQICkDuft0P57mlPT3vxnCUlmfmse6HBznmZfiVDYvfGEKbtckF9y5vqQhs-NvHGOLaJnJg,master,52,21,-31
 2026-07-14T22:40:58,WuT0FLAK1l6wwjy2JRefahsXPLGlwv5Zkm6cE9adjoxMFE5-QJF9e4KGVzSVRwdRcxGFd2-BJkNaKQ,master,38,8,-30
 2026-07-14T22:40:58,0tkqQ7aocRa40hLXuvyqBZ5qdxWfryuFPIkY9UyU1YlNfaIWT6qflF3X810hS7sMksnl2gc5L26wDQ,master,19,0,-19
+2026-07-14T22:45:44,20rzOZh7uwI4L2EjtQKh-1gzrddA_hMXyfqkdmkzrdbt47xU2z_fcW0mbFJV9XCht5mAG8xYnPppkg,challenger,1019,989,-30
+2026-07-14T22:45:44,pTHnQckjsUbJmTzW36xb7Lq1vMEG0k-1RhoevjR6wohlCjO--Fhqhh39gCV8gVRBvzvD-zu8UeOpuA,master,64,95,31
+2026-07-14T22:45:44,woWtfUdcQICkDuft0P57mlPT3vxnCUlmfmse6HBznmZfiVDYvfGEKbtckF9y5vqQhs-NvHGOLaJnJg,master,21,52,31
+2026-07-14T22:45:44,WuT0FLAK1l6wwjy2JRefahsXPLGlwv5Zkm6cE9adjoxMFE5-QJF9e4KGVzSVRwdRcxGFd2-BJkNaKQ,master,8,38,30
