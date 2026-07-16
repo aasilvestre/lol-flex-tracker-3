@@ -24528,3 +24528,8 @@ timestamp_utc,puuid,tier,old_lp,new_lp,lp_delta
 2026-07-16T19:05:38,kB7t9XeaxRfBcotPoK3xO8--Cx3b2pDKXFyEGlhQebGCNs53BiDFghS0v8ttHmB29MMakgsk_v4h-g,master,78,111,33
 2026-07-16T19:05:38,GQC4ewadcEot-PoiyepMiKpnCHYjVePTkYxmI_WChY66WrDRLkL9cozRLCzo1XxWNbFPA9j3yNOqsA,master,9,0,-9
 2026-07-16T19:05:38,MR3gTIq5nhlTsvNmLL2g3LNVyYkkiGgs_mzhUjskOx64IeocjFiSxA3rIVRJD2K4IwrZ4K9_gLo8_w,master,25,0,-25
+2026-07-16T19:10:45,q_aArBr3G6KpEXYCwsZxrQMZQeJQpa1plnTrO6v_BRma2lTDE2oP29fWQFBOWuqwetGTyXt_k6Jd0g,challenger,1736,1768,32
+2026-07-16T19:10:45,jtamevkTj3wckn3vkC0NYJsUeqNlWI2OA2geSjdwY1y6Q3DPwfNfe7xOjgPWXDOfsilFZjQpcweyzw,challenger,1774,1744,-30
+2026-07-16T19:10:45,G6oJpdKDqqASuHoYIC7ibltWpiKZECM_NhqsXxnhhchdaI80wYcNslzQbXTLl_C_pg82WdiolVmYqQ,challenger,1480,1449,-31
+2026-07-16T19:10:45,dzaQrgf0QfB3IS_rCrWWteJUmG38wYl8t7Gl2cj8C6VsSj3_Om5knQjcT1J6Z3M_Ti0LtPmrugY2Kg,challenger,1356,1387,31
+2026-07-16T19:10:45,dTeQAQZMezQKXN7KgrJkgrqrOwmQdzFfQNmz9b_zIKnyMXJm5V5sb5jzLJZRuua7FG6zBrd57bdN7g,challenger,1146,1116,-30
